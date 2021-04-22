@@ -1,2 +1,7 @@
 # Toolbox
-Everything in my toolbox as a full stack web developer.
+This is my toolbox as a full stack web developer.
+
+## Core
+Macbook Pro
+Ruby
+Rails
