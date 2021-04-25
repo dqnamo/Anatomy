@@ -75,3 +75,27 @@ Use package control to easily install packages for sublime text.
 <img width="1792" alt="CleanShot 2021-04-25 at 10 19 18@2x" src="https://user-images.githubusercontent.com/25507937/115988043-bb969580-a5af-11eb-81cf-6c98e1ed1f20.png">
 
 ## My Terminal
+
+1. iTerm2
+
+* Zsh
+* OhMyZsh
+* powerlevel9k
+
+<img width="1792" alt="CleanShot 2021-04-25 at 10 45 14@2x" src="https://user-images.githubusercontent.com/25507937/115989543-dae4f100-a5b6-11eb-98c3-077d39c3b396.png">
+
+## Unique Mentions
+
+#### TailwindCSS
+A utility-first CSS framework. This has quickly become my new favourite replacing bootstrap.
+
+#### TabNine :gem:
+AI code completion tool that knows what I want to do before I do!
+
+#### ProductHunt
+The best place I find interesting new products, services and apps.
+
+
+## Other Apps
+
+
