@@ -9,10 +9,9 @@ Items marked with ':gem:' are products or services that have both free and paid 
 These are the things that are at the heart of the operation.
 
 1. [Macbook Pro](https://www.apple.com/ie/macbook-pro-13/?afid=p238%7CscMrXQJs5-dc_mtid_187079nc38483_pcrid_479265063056_pgrid_102674645018_&cid=aos-ie-kwgo-mac--slid---product-). :heavy_dollar_sign:
-3. [Ruby](https://www.ruby-lang.org/en/). A dynamic, open source programming language with a focus on simplicity and productivity.
-4. [Ruby on Rails](https://rubyonrails.org). A web framework using ruby.
+3. [Ruby](https://www.ruby-lang.org/en/). Dynamic, open source programming language with a focus on simplicity and productivity.
+4. [Ruby on Rails](https://rubyonrails.org). Web framework using ruby that optimizes programmer happiness.
 
-   A web framework that is enjoyable.
 
 ## My Text Editor
 Where the magic happens. 
