@@ -100,17 +100,17 @@ The best place I find interesting new products, services and apps.
 
 |App Name|Description|Platforms|
 |--|--|--|
-|Slack💎| The best way to communicate with your team. |`iOS` `macOS` `Web`|
+|Slack 💎| The best way to communicate with your team. |`iOS` `macOS` `Web`|
 |GitHub desktop|Easiest git gui I have used.|`macOS`|
 |Ray cast|Powerful spotlight replacement with custom script commands.|`macOS`|
 |Around.co|The best video call/collaboration tool I have used! Makes it more fun and less tiring.|`macOS` `Web`|
-|Postico|Native GUI for databases.|`macOS`|
+|Postico :heavy_dollar_sign:|Native GUI for databases.|`macOS`|
 |Safari|Browser that doesnt use max RAM!|`iOS` `macOS` `Web`|
-|Pastebot|Clipboard manager.|`macOS`|
+|Pastebot :heavy_dollar_sign:|Clipboard manager.|`macOS`|
 |Loom|To easily create and share screencast videos.|`macOS` `Web`|
-|Bear|Native note taking app for meetings etc.|`iOS` `macOS`|
+|Bear 💎||Native note taking app for meetings etc.|`iOS` `macOS`|
 |Swish|Easily manage windows using gestures.|`macOS`|
-|Setapp|Curated apps.|`macOS`|
+|Setapp :heavy_dollar_sign:||Curated apps.|`macOS`|
 |Color slurp|Easy to use universal color picker.|`macOS`|
-|Sketch|My design platform of choice for app design or general graphic design.|`macOS`|
+|Sketch :heavy_dollar_sign:|My design platform of choice for app design or general graphic design.|`macOS`|
 
