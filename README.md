@@ -108,9 +108,9 @@ The best place I find interesting new products, services and apps.
 |Safari|Browser that doesnt use max RAM!|`iOS` `macOS` `Web`|
 |Pastebot :heavy_dollar_sign:|Clipboard manager.|`macOS`|
 |Loom|To easily create and share screencast videos.|`macOS` `Web`|
-|Bear 💎||Native note taking app for meetings etc.|`iOS` `macOS`|
+|Bear 💎|Native note taking app for meetings etc.|`iOS` `macOS`|
 |Swish|Easily manage windows using gestures.|`macOS`|
-|Setapp :heavy_dollar_sign:||Curated apps.|`macOS`|
+|Setapp :heavy_dollar_sign:|Curated apps.|`macOS`|
 |Color slurp|Easy to use universal color picker.|`macOS`|
 |Sketch :heavy_dollar_sign:|My design platform of choice for app design or general graphic design.|`macOS`|
 
