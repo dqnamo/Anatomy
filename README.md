@@ -5,14 +5,16 @@ Items marked with ':heavy_dollar_sign:' are paid products or services.
 
 Items marked with ':gem:' are products or services that have both free and paid versions.
 
-## Core
+## My Core
 These are the things that are at the heart of the operation.
 
-1. Macbook Pro :heavy_dollar_sign:
-3. Ruby
-4. Ruby on Rails
+1. [Macbook Pro](https://www.apple.com/ie/macbook-pro-13/?afid=p238%7CscMrXQJs5-dc_mtid_187079nc38483_pcrid_479265063056_pgrid_102674645018_&cid=aos-ie-kwgo-mac--slid---product-). :heavy_dollar_sign:
+3. [Ruby](https://www.ruby-lang.org/en/). A dynamic, open source programming language with a focus on simplicity and productivity.
+4. [Ruby on Rails](https://rubyonrails.org). A web framework using ruby.
 
-## Text Editor
+   A web framework that is enjoyable.
+
+## My Text Editor
 Where the magic happens. 
 
 1. Sublime Text :heavy_dollar_sign:
@@ -21,6 +23,7 @@ Where the magic happens.
    * Monolisa font :heavy_dollar_sign:
     
 #### 📦 Packages
+* Package Control
 * A file icon
 * Rails Partial
 * Rails latest migration
@@ -69,3 +72,5 @@ Where the magic happens.
 
 ...and here is how it looks.
 <img width="1792" alt="CleanShot 2021-04-25 at 10 19 18@2x" src="https://user-images.githubusercontent.com/25507937/115988043-bb969580-a5af-11eb-81cf-6c98e1ed1f20.png">
+
+## My Terminal
