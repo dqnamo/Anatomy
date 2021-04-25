@@ -16,15 +16,15 @@ These are the things that are at the heart of the operation.
 ## My Text Editor
 Where the magic happens. 
 
-1. Sublime Text :heavy_dollar_sign:
-   * Gravity Theme
-   * Monokai Pro(Spectrum) syntax color scheme :heavy_dollar_sign:
-   * Monolisa font :heavy_dollar_sign:
+1. [Sublime Text](https://www.sublimetext.com) :heavy_dollar_sign:
+   * [Gravity Theme](https://frankyonnetti.github.io/gravity-sublime-theme/)
+   * [Monokai Pro](https://monokai.pro)(Spectrum) syntax color scheme :heavy_dollar_sign:
+   * [Monolisa font](https://www.monolisa.dev) :heavy_dollar_sign:
     
 #### 📦 Packages
 Use package control to easily install packages for sublime text.
 
-* **PackageControl**
+* [**PackageControl**](https://packagecontrol.io)
 * `A file icon`
 * `Rails Partial`
 * `Rails latest migration`
@@ -32,7 +32,7 @@ Use package control to easily install packages for sublime text.
 * `Sublime Linter - Rubocop`
 * `SideBar Enchancements`
 * `Zen tabs`
-* `Tabnine`  (More on this later!) :gem:
+* `Tabnine` :gem:
 
 #### Sublime settings file
 ```json
@@ -76,23 +76,28 @@ Use package control to easily install packages for sublime text.
 
 ## My Terminal
 
-1. iTerm2
+1. [iTerm2](https://iterm2.com). The best natve terminal replacement that allows you do a lot more.
 
-* Zsh
-* OhMyZsh
-* powerlevel9k
+#### Functional
+* [ZSH](https://www.zsh.org)
+* [OhMyZsh](https://github.com/ohmyzsh/ohmyzsh)
+* [ZshSyntaxHighlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
+* [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
+
+#### Visual
+* [powerlevel10k](https://github.com/romkatv/powerlevel10k)
 
 <img width="1792" alt="CleanShot 2021-04-25 at 10 45 14@2x" src="https://user-images.githubusercontent.com/25507937/115989543-dae4f100-a5b6-11eb-98c3-077d39c3b396.png">
 
 ## Unique Mentions
 
-#### TailwindCSS
+#### [TailwindCSS](https://tailwindcss.com)
 A utility-first CSS framework. This has quickly become my new favourite replacing bootstrap.
 
-#### TabNine :gem:
+#### [TabNine](https://www.tabnine.com) :gem: 
 AI code completion tool that knows what I want to do before I do!
 
-#### ProductHunt
+#### [ProductHunt](https://www.producthunt.com)
 The best place I find interesting new products, services and apps.
 
 
@@ -100,19 +105,19 @@ The best place I find interesting new products, services and apps.
 
 |App Name|Description|Platforms|
 |--|--|--|
-|Slack 💎| The best way to communicate with your team. |`iOS` `macOS` `Web`|
-|GitHub desktop|Easiest git gui I have used.|`macOS`|
-|Ray cast|Powerful spotlight replacement with custom script commands.|`macOS`|
-|Around.co|The best video call/collaboration tool I have used! Makes it more fun and less tiring.|`macOS` `Web`|
-|Postico :heavy_dollar_sign:|Native GUI for databases.|`macOS`|
-|Safari|Browser that doesnt use max RAM!|`iOS` `macOS` `Web`|
-|Pastebot :heavy_dollar_sign:|Clipboard manager.|`macOS`|
-|Loom|To easily create and share screencast videos.|`macOS` `Web`|
-|Bear 💎|Native note taking app for meetings etc.|`iOS` `macOS`|
-|Swish|Easily manage windows using gestures.|`macOS`|
-|Setapp :heavy_dollar_sign:|Curated apps.|`macOS`|
-|Color slurp|Easy to use universal color picker.|`macOS`|
-|Sketch :heavy_dollar_sign:|My design platform of choice for app design or general graphic design.|`macOS`|
+|[Slack](https://slack.com/intl/en-ie/) 💎| The best way to communicate with your team. |`iOS` `macOS` `Web`|
+|[GitHub desktop](https://desktop.github.com)|Easiest git gui I have used.|`macOS`|
+|[Ray cast](https://raycast.com)|Powerful spotlight replacement with custom script commands.|`macOS`|
+|[Around.co](https://www.around.co)|The best video call/collaboration tool I have used! Makes it more fun and less tiring.|`macOS` `Web`|
+|[Postico](https://eggerapps.at/postico/) :heavy_dollar_sign:|Native GUI for databases.|`macOS`|
+|[Safari](https://www.apple.com/safari/)|Browser that doesnt use max RAM!|`iOS` `macOS` `Web`|
+|[Pastebot](https://tapbots.com/pastebot/) :heavy_dollar_sign:|Clipboard manager.|`macOS`|
+|[Loom](https://www.loom.com/)|To easily create and share screencast videos.|`macOS` `Web`|
+|[Bear](https://bear.app) 💎|Native note taking app for meetings etc.|`iOS` `macOS`|
+|[Swish](https://highlyopinionated.co/swish/)|Easily manage windows using gestures.|`macOS`|
+|[Setapp](https://setapp.com) :heavy_dollar_sign:|Curated apps.|`macOS`|
+|[Color slurp](https://colorslurp.com)|Easy to use universal color picker.|`macOS`|
+|[Sketch](https://www.sketch.com) :heavy_dollar_sign:|My design platform of choice for app design or general graphic design.|`macOS`|
 
 ## No.1 Rule
 >I believe every single one of these tools, makes me more productive and efficient at what I do but the number one rule that surpasses all the fancy tools that you may have is to just DO! The core at the anatomy of a full stack software engineer is to **Just do stuff**.
