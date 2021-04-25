@@ -5,7 +5,7 @@ Items marked with ':heavy_dollar_sign:' are paid products or services.
 
 Items marked with ':gem:' are products or services that have both free and paid versions.
 
-## My Core
+## The Core
 These are the things that are at the heart of the operation.
 
 1. [Macbook Pro](https://www.apple.com/ie/macbook-pro-13/?afid=p238%7CscMrXQJs5-dc_mtid_187079nc38483_pcrid_479265063056_pgrid_102674645018_&cid=aos-ie-kwgo-mac--slid---product-). :heavy_dollar_sign:
@@ -22,15 +22,17 @@ Where the magic happens.
    * Monolisa font :heavy_dollar_sign:
     
 #### 📦 Packages
-* Package Control
-* A file icon
-* Rails Partial
-* Rails latest migration
-* Sublime Linter
-* Sublime Linter - Rubocop
-* SideBar Enchancements
-* Zen tabs
-* Tabnine (More on this later!) :gem:
+Use package control to easily install packages for sublime text.
+
+* **PackageControl**
+* `A file icon`
+* `Rails Partial`
+* `Rails latest migration`
+* `Sublime Linter`
+* `Sublime Linter - Rubocop`
+* `SideBar Enchancements`
+* `Zen tabs`
+* `Tabnine`  (More on this later!) :gem:
 
 #### Sublime settings file
 ```json
