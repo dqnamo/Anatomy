@@ -115,4 +115,4 @@ The best place I find interesting new products, services and apps.
 |Sketch :heavy_dollar_sign:|My design platform of choice for app design or general graphic design.|`macOS`|
 
 ## No.1 Rule
-I believe Every single one of these tools, makes me a more productive and effiecnt at what I do but the number one rule that surpasses all the fancy tools that you may have is to just DO! Just do stuff.
+>I believe every single one of these tools, makes me more productive and efficient at what I do but the number one rule that surpasses all the fancy tools that >you may have is to just DO! Just do stuff.
